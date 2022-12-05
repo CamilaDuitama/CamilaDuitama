@@ -6,5 +6,3 @@
  - 🧹🦷 I am currently working in the decontamination of ancient metagenomic data using machine learning applied to k-mer profiles (see [decOM](https://github.com/CamilaDuitama/decOM)).
  
 - ✨ Pronouns: She/Her
-
-- ⚡ Fun fact: I am pretty good at swearing in greek μαλακα 😇
