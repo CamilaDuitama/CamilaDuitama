@@ -1,7 +1,8 @@
 # Hola 👋
 
  I am Camila Duitama González
- - 🧬👩🏽‍💻I am a bioinformatician doing a postdoc in the [Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/)  group from Institut Pasteur working under the supervision of [Dr. Rayan Chikhi](http://rayan.chikhi.name/) and [Dr. Hugues Richard](http://www.lgm.upmc.fr/hrichard/).
+ - 🧬👩🏽‍💻I am currently working as a Research Engineer in the group of [Sebastian Duchene](https://scholar.google.com/citations?user=K7q8WywAAAAJ&hl=en&oi=ao), [Evolutionary Dynamics of Infectious Diseases](https://research.pasteur.fr/en/member/sebastian-duchene-garzon/) at the Institut Pasteur in Paris, France.
+ - I did my PhD and first Postdoc in the [Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/)  group from Institut Pasteur, working under the supervision of [Dr. Rayan Chikhi](http://rayan.chikhi.name/) and [Dr. Hugues Richard](http://www.lgm.upmc.fr/hrichard/).
    
  - My latest work is [muset](https://github.com/CamilaDuitama/muset), a software for generating an abundance unitig matrix from a collection of input samples (in FASTA/Q format).
  
